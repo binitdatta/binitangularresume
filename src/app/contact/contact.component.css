@@ -1,0 +1,20 @@
+/*CONTACT*/
+
+.contact {
+  padding:100px 0 100px;
+  text-align:center;
+}
+
+.contact h1 {
+  font-size:2em;
+
+}
+
+.contact .fa {
+  color:#1c3f5c;
+  padding:20px 10px 40px;
+}
+
+.contact li {
+  padding-top: 10px;
+}

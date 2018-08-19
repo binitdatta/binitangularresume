@@ -1,0 +1,41 @@
+/*SCREENS*/
+
+.screenshots {
+  #background-color:#235178;
+  padding:10px 0 10px;
+  text-align:left;
+  color:#242424;
+  line-height: 200%;
+}
+
+.screenshots img {
+  padding: 20px 0 20px;
+}
+
+.screenshots h1 {
+  font-size:2em;
+}
+
+.screenshots a {
+  float: right;
+  vertical-align: middle !important;
+}
+.professionalexperience {
+  #background-color:skyblue;
+  padding:10px 0 10px;
+  text-align:left;
+  color:#242424;
+  line-height: 90%;
+}
+
+.professionalexperience a {
+  vertical-align: middle;
+}
+
+.professionalexperience img {
+  padding: 20px 0 20px;
+}
+
+.professionalexperience h1 {
+  font-size:2em;
+}

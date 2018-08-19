@@ -1,0 +1,19 @@
+/*FEATURES*/
+
+.features {
+  text-align:left;
+  font-size:1.8.em;
+  font-weight:bold;
+  color:#242424;
+  padding:1px 0 10px;
+}
+
+.features h1 {
+  font-size:2em;
+  padding-bottom:0;
+  margin:1em 0
+}
+
+.features img {
+  padding:15px 0 35px;
+}

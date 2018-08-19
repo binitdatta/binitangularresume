@@ -1,0 +1,21 @@
+/*ABOUT*/
+
+.about {
+  background-color: skyblue;
+  padding: 10px 0 10px;
+  text-align: justify;
+}
+
+.about h1 {
+  font-size: 1.8em !important;
+  color: #337ab7 !important;
+  padding: 0 0 25px !important;
+}
+
+.about p {
+  padding-bottom:5px !important;
+  font-size:3.8.em;
+  font-weight:bold;
+  line-height: 200%;
+  color:#242424;
+}
